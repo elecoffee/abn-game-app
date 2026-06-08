@@ -62,5 +62,3 @@
 </text>
 <probability>0.08</probability>
 </response>
-
----
